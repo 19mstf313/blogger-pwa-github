@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "Pratik Yemek Tarifleri",
+  "short_name": "Yemek Tarifleri",
+  "description": "Pratik yemek tarifleri. Binlerce tarif; et, sebze, salata, hamurişi hızlı ve lezzetli yemekler burada.",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "tr-TR",
   "orientation": "any",
   "start_url": "/?utm_source=homescreen",
   "scope": "/",
@@ -90,9 +90,9 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
-      "description": "My Shortcut 1 description goes here...",
+      "name": "PYT",
+      "short_name": "PYT",
+      "description": "Pratik Yemek Tariflerine hoş geldiniz...",
       "url": "/search/label/my-shortcut-1?utm_source=homescreen",
       "icons": [
         {
@@ -102,9 +102,9 @@
       ]
     },
     {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
-      "description": "My Shortcut 2 description goes here...",
+      "name": "Pratik Tarifler",
+      "short_name": "Pratik Yemekler",
+      "description": "Az malzeme ile lezzetli pratik yemek tarifleri burada...",
       "url": "/search/label/my-shortcut-2?utm_source=homescreen",
       "icons": [
         {
